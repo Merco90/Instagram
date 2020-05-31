@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081771985689",
+    "firebase_url": "https://instagram-51fca.firebaseio.com",
+    "project_id": "instagram-51fca",
+    "storage_bucket": "instagram-51fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081771985689:android:3e87580397aef593015388",
+        "android_client_info": {
+          "package_name": "org.rasuloff.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081771985689-fomo4olkjr974j38emsr26vd2n1bt79j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.rasuloff.instagram",
+            "certificate_hash": "55f67f8c54d26068f10adb5068d5917e02b1058c"
+          }
+        },
+        {
+          "client_id": "1081771985689-2tqo3tkjbs1uad8svdbei7pgtnsbb9mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP9qlpFz6DTy62cdQOETU_CgTFQoHa_f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081771985689-2tqo3tkjbs1uad8svdbei7pgtnsbb9mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
